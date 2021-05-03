@@ -4,7 +4,7 @@
 ## Hi 👋
 I'm Naveen Honest Raj, I'm a curious little product enthusiast & backend developer 💻 
 
-- 🌱  I’m currently with [Happyfox](https://happyfox.com)
+- 🌱  I’m currently working as Freelancer for Rails and Django projects.
 - 💬  Ask me about: tech, tv-shows, movies
 - 😄  Pronouns: he/him
 -  ⚡  Power Language: Python
