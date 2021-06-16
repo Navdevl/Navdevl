@@ -6,8 +6,8 @@ I'm Naveen Honest Raj, I'm a curious little product enthusiast & backend develop
 
 - 🌱  I’m currently working as Freelancer for Rails and Django projects.
 - 💬  Ask me about: tech, tv-shows, movies
-- 😄  Pronouns: he/him
--  ⚡  Power Language: Python
+-  ⚡  Power Language: Python, Ruby
+-  🐦 I tweet very often. You can follow me [@nav_devl](https://twitter.com/nav_devl)
 
 ## Favourite quote
 Before software can be reusable it first has to be usable.
