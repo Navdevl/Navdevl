@@ -4,7 +4,6 @@
 ## Hi 👋
 I'm Naveen Honest Raj, I'm a curious little product enthusiast & backend developer 💻 
 
-- 🌱  I’m currently working as Freelancer for Rails and Django projects.
 - 💬  Ask me about: tech, tv-shows, movies
 -  ⚡  Power Language: Python, Ruby
 -  🐦 I tweet very often. You can follow me [@nav_devl](https://twitter.com/nav_devl)
